@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/523
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Carlyle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2120#History-of-Friedrich-II-of-Prussia---Volume-20
 gutenberg_issued: '2008-06-16'
 gutenberg_type: Text
 identifiers:

@@ -1,0 +1,30 @@
+_repo: History-of-Friedrich-II-of-Prussia---Volume-20_2120
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Carlyle, Thomas
+    alias: Carlyle, T. (Thomas)
+    birthdate: 1795
+    deathdate: 1881
+    gutenberg_agent_id: '523'
+    url: http://www.gutenberg.org/2009/agents/523
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Carlyle
+description: ''
+gutenberg_issued: '2008-06-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2120'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prussia (Germany) -- History -- Frederick II, 1740-1786'
+- !lcsh 'Frederick II, King of Prussia, 1712-1786'
+- !lcc 'DD'
+- !lcsh 'Social problems'
+title: History of Friedrich II of Prussia — Volume 20
+url: http://www.gutenberg.org/ebooks/2120
